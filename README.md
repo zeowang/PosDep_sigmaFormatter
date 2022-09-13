@@ -1,1 +1,3 @@
-# ChemCG_22S_DimElementIdentifier
+# sigmaElementIdent
+
+This is a supplyment program of formatting sigma matrix for 
